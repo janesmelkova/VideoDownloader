@@ -48,7 +48,7 @@ Linux (Debian/Ubuntu): sudo apt install ffmpeg
 
 Windows: [скачать сборку](https://www.gyan.dev/ffmpeg/builds/) и прописать путь в PATH.
 
-### ЗАПУСК
+### 5. Запуск
 ```bash
 python fetch_media.py
 ```
